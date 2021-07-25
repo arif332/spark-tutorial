@@ -17,7 +17,7 @@
 ---
 
 ## Spark Installation in macOS environment
-This installation work followed in macOS Big Sur with intel cpu evironment.  
+This installation work followed in macOS Big Sur in Intel cpu evironment.  
 
 ### Check current java and javac version
 Check java version in MacOS. Required java version is 8 / 11. If java is not available then install it by downloaing from oracle website. 
